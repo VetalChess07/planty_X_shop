@@ -386,7 +386,7 @@ input::placeholder {
 }
 
 .no-webp .section__intro{
-  background: url(../../img/bg__main.png); }
+  background: url(../img/bg__main.png); }
 
 .section__intro {
   width: 100vw;
